@@ -1,0 +1,14 @@
+Diseñe una aplicación web que permita recolectar
+la información suministrada de las mediciones realizadas
+de las válvulas PSI de diferentes pozos petroleros de la empresa
+PDVSA ubicados en varias zonas del país.
+
+La aplicación debe de mostrar un histórico de los registros suministrados,
+así como la fecha y hora, el pozo y valor registrado en psi. De igual manera debe de
+poder generar una gráfica comparativa de las
+mediciones realizadas a cada pozo periodos de fecha seleccionados.
+
+Para el diseño pueden realizarlo con bootstrap.
+
+Subir el código a GitHub, subir el proyecto a un hosting y enviar ambos
+enlaces al correo juan.medina@urbe.edu.ve

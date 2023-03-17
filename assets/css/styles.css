@@ -1,0 +1,63 @@
+.IndicePagina {
+    padding-top: 5%;
+    padding-bottom: 3%;
+    background-color:rgb(153, 0, 31);
+    text-align: center;
+}
+
+.imagenPDVSA {
+    width: 30%;
+}
+
+.Interfaz {
+    padding-top: 20%;
+    padding-bottom: 20%;
+    background-image: url("../images/PetroleoImagen.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Interfaz h1 {
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-weight:600;
+    font-size: 500%;
+    color:white;
+}
+
+.container-TablaPozos {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+}
+
+.container-TablaPozos h2 {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.pie-pagina {
+    position: fixed;
+   bottom: 0;
+   width: 100%;
+   text-align: center;
+   color: white;
+    background-color:rgb(153, 0, 31);
+}
+
+.container-Valvulas {
+    text-align: center;
+}
+
+.titulo-Seccion {
+    font-size: 500%;
+    text-align: center;
+
+}
+
+.GraficoDatos {
+    height:450px;
+    width: 450px;
+    margin-top: 30px;
+}
+
+
